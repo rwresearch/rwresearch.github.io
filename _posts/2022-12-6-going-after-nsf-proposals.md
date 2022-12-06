@@ -87,18 +87,16 @@ But irrespective of one’s polymath tendencies, the biggest stumbling block tha
 
 I took the liberty of finding some other links to blogs or presentations on writing up proposals to the NSF and the experiences of reviewers so that you can see other perspectives. 
 
-NSF - Why You Should Volunteer to Serve As An NSF Reviewer https://www.nsf.gov/bfa/dias/policy/merit_review/reviewer.jsp
+[NSF - Why You Should Volunteer to Serve As An NSF Reviewer](https://www.nsf.gov/bfa/dias/policy/merit_review/reviewer.jsp)
 
-NSF Grant Reviewer Tells All http://www.sciencemag.org/careers/2003/04/nsf-grant-reviewer-tells-all
+[NSF Grant Reviewer Tells All](http://www.sciencemag.org/careers/2003/04/nsf-grant-reviewer-tells-all)
 
-Serving at NSF panels and what it teaches about how to pitch the perfect proposal
-http://muratbuffalo.blogspot.com/2015/09/serving-at-nsf-panels-and-what-it.html
+[Serving at NSF panels and what it teaches about how to pitch the perfect proposal](http://muratbuffalo.blogspot.com/2015/09/serving-at-nsf-panels-and-what-it.html)
 
-The NSF reviewing process https://web.engr.oregonstate.edu/~grimmc/NSF/TheNSFReviewingProcess.html
+[The NSF reviewing process](https://web.engr.oregonstate.edu/~grimmc/NSF/TheNSFReviewingProcess.html)
 
-NSF Panels: a glimpse from the inside http://genomebio.org/nsf-panels/
+[NSF Panels: a glimpse from the inside](http://genomebio.org/nsf-panels/)
 
-Nanoscale Views Thoughts After NSF Panel
-https://nanoscale.blogspot.com/2017/10/thoughts-after-nsf-panel.html
+[Nanoscale Views Thoughts After NSF Panel](https://nanoscale.blogspot.com/2017/10/thoughts-after-nsf-panel.html)
 
 
