@@ -99,4 +99,4 @@ I took the liberty of finding some other links to blogs or presentations on writ
 
 [Nanoscale Views Thoughts After NSF Panel](https://nanoscale.blogspot.com/2017/10/thoughts-after-nsf-panel.html)
 
-
+[Drop in NSF Proposals: More Proposals Funded?](https://research.uh.edu/the-big-idea/university-research-explained/drop-in-nsf-proposals-more-proposals-funded/)
