@@ -1,0 +1,39 @@
+title: "Random Walk Research LLC"
+author: "rwresearch"
+#description: "<b style=\"color: #f45;\">Random Walk Research LLC</b>"
+description: "Random Walk Research LLC<br><i>Further Study Required Blog</i><br>DMM, PhD ©2022 All rights reserved.<br>"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: false     # show article excerpts on the home page
+show_frame: false       # adds a gray frame to the site
+show_sidebar: false     # show a sidebar instead of the usual header
+minimal: false           # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+
+  - {file: "services.md", title: "Services"}
+  - {file: "portfolio.md", title: "Portfolio"}
+  - {file: "goodies.md", title: "Goodies"}
+  - {file: "about.md", title: "Me"}
+  - {file: "blog.md", title: "Blog"}
+  
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: email, icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
+  - {title: github, icon: github, url: "https://github.com/rwresearch"}
+  - {title: linkedin, icon: linkedin, url: "https://www.linkedin.com/in/dmartinezphd/"}
+  - {title: legal, url: "https://dmartinezphd.github.io/legal/"}
+  # - {icon: rss, url: "/feed.xml"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
