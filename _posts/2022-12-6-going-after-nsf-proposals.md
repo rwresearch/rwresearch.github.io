@@ -95,7 +95,7 @@ I took the liberty of finding some other links to blogs or presentations on writ
 
 [The NSF reviewing process](https://web.engr.oregonstate.edu/~grimmc/NSF/TheNSFReviewingProcess.html)
 
-[NSF Panels: a glimpse from the inside](http://genomebio.org/nsf-panels/)
+[NSF Panels: a glimpse from the inside](http://genomebio.org/nsf-panels/) --> Had to [Wayback This](https://web.archive.org/web/20190820004118/http://genomebio.org/nsf-panels/)
 
 [Nanoscale Views Thoughts After NSF Panel](https://nanoscale.blogspot.com/2017/10/thoughts-after-nsf-panel.html)
 
