@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<i>Further Study Required Blog</i>"
+title: "Further Study Required Blog"
 ---
 
 {% if site.show_excerpts %}
