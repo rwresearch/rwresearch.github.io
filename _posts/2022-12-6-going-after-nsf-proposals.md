@@ -1,7 +1,7 @@
 ---
 title:  "A 'once upon a time' semi-helpful rundown for going after NSF proposals"
 layout: post
-tags: academia; grantwriting
+tags: academia grantwriting
 ---
 
 A “once upon a time” semi-helpful rundown for going after NSF proposals
