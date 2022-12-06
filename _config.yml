@@ -1,7 +1,7 @@
 title: "Random Walk Research LLC"
 author: "rwresearch"
 #description: "<b style=\"color: #f45;\">Random Walk Research LLC</b>"
-description: "Random Walk Research LLC<br><i>Further Study Required Blog</i><br>DMM, PhD ©2022 All rights reserved.<br>"
+description: "Random Walk Research LLC<br>Further Study Required Blog<br>DMM, PhD ©2022 All rights reserved.<br>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
