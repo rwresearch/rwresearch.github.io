@@ -12,6 +12,7 @@ Below is a linked list of services provided by Random Walk Research. Select an o
 - [Research](/assets/services/research)
 - [Proposal Preparation and Review](/assets/services/proposals) <!-- [Air Quality Assessment](/assets/services/aqassessment) -->
 - [Life Cycle Assessment](/assets/services/lcassessment)
+- Air Quality Assessment
 - [Public Speaking/Workshops](/assets/services/speaking)
 
 
